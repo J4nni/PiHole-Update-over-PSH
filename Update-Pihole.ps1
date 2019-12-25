@@ -13,9 +13,6 @@ Update-Pihole 10.10.10.1
 
 .NOTES
 You need the POSH SSH Module.
-.LINK
-
-
 #>
 
 
