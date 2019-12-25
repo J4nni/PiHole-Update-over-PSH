@@ -81,7 +81,7 @@ if ($av -eq $True) {
         }
         break
     }
-     $sniff.innerText
+     
 
 }
 
